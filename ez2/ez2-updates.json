@@ -1,12 +1,12 @@
 [
     {
-        "APP_VER": [1, 6, 3],
-        "SIZE": 0,
-        "URL": ""
-    },
-    {
         "APP_VER": [1, 7, 1],
         "SIZE": 2334638080,
         "URL": "http://files.skoserver.ru/ez2-updates/1_7_1.zip"
+    },
+    {
+        "APP_VER": [1, 6, 3],
+        "SIZE": 0,
+        "URL": ""
     }
 ]
