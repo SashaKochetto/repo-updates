@@ -152,7 +152,7 @@
     {
         "id": 2866566054,
         "name": "Day Time Background",
-        "url": "https://www.dropbox.com/s/m3wtg2wnhpekbbp/2866566054_content.zip?dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2866566054_content.zip"
     },
     {
         "id": 2883762138,
@@ -162,7 +162,7 @@
     {
         "id": 2852492079,
         "name": "Русские Субтитры | Русификатор",
-        "url": "https://www.dropbox.com/s/80keijce0sos6ux/2852492079_content.zip?dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2852492079_content.zip"
     },
     {
         "id": 2856568541,
@@ -177,7 +177,7 @@
     {
         "id": 2871583417,
         "name": "Half-Life 2: MMod - Weapon Replacements Redux",
-        "url": "https://www.dropbox.com/s/p9pu69mw8atfpxz/2871583417_content.zip?dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2871583417_content.zip"
     },
     {
         "id": 2864964954,
@@ -212,7 +212,7 @@
     {
         "id": 2933221474,
         "name": "Enhanced CustomVFX Overhaul",
-        "url": "https://www.dropbox.com/s/std09y295jtnllf/2933221474_content.zip?dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2933221474_content.zip"
     },
     {
         "id": 2858060355,
@@ -222,7 +222,7 @@
     {
         "id": 2958818447,
         "name": "Entropy Zero 2 Demo: Gravity Gun (Super Gravity Gun) + Bugbait Viewmodel",
-        "url": "https://www.dropbox.com/scl/fi/uo8tnyb2tn64el2cr9ea2/2958818447_content.zip?rlkey=lxsxzsfmkgkmwumxhg3cwchnl&dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2958818447_content.zip"
     },
     {
         "id": 2869763170,
@@ -262,7 +262,7 @@
     {
         "id": 2986561636,
         "name": "Counter-Strike: Global Offensive Panorama HUD",
-        "url": "https://www.dropbox.com/scl/fi/crnfkefgm3zmc3tlr5sw7/2986561636_content.zip?rlkey=ivbpp1unpo1kmyqxsy19tvv67&dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/2986561636_content.zip"
     },
     {
         "id": 3013915729,
@@ -277,7 +277,7 @@
     {
         "id": 3093092059,
         "name": "Better Crosshair",
-        "url": "https://www.dropbox.com/scl/fi/05k5gz09x3jn6j2o7p4p2/3093092059_content.zip?rlkey=av65tupb1cx90wfe9nqt2tbdd&dl=1"
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/3093092059_content.zip"
     },
     {
         "id": 3071599537,
@@ -298,5 +298,10 @@
         "id": 3324791562,
         "name": "Black Mesa: Blue Shift RPG for EZ2 [updated]",
         "url": "https://www.dropbox.com/scl/fi/y1nujngr8hn1x0zkxd6mn/3324791562_content.zip?rlkey=go9wba59o2jqf3dz0w6f64zyl&st=d9n3wwkk&dl=1"
+    },
+    {
+        "id": 3151182893,
+        "name": "[EZ2] Modern Warfare [Tactical Edition]",
+        "url": "https://skoserver.ddns.net/files/ez2-workshop/3151182893_content.zip"
     }
 ]
