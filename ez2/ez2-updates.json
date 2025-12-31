@@ -1,13 +1,18 @@
 [
     {
+        "APP_VER": [1, 10, 5],
+        "SIZE": 1242833571,
+        "URL": "https://download.skoserver.ru/ez2/updates/1.10.5.zip"
+    },
+    {
         "APP_VER": [1, 8, 1],
         "SIZE": 2155053056,
-        "URL": "http://skoserver.ddns.net/ez2/update_1.8.1.zip"
+        "URL": ""
     },
     {
         "APP_VER": [1, 7, 1],
         "SIZE": 2334638080,
-        "URL": "http://skoserver.ddns.net/ez2/update_1.7.1.zip"
+        "URL": ""
     },
     {
         "APP_VER": [1, 6, 3],
